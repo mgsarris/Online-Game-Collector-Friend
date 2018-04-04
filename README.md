@@ -15,4 +15,4 @@ No login required!
 If something isn't working, double check that you:
 - Saved the complete html
 - Saved the complete html as described above (gog.html for gog, etc...)
-- EVERYTHING is in the same folder
+- Put EVERYTHING in the same folder
