@@ -1,6 +1,5 @@
 # Online-Game-Collector-Friend
 A handy python and C# script that puts all your games from GOG, Steam, and Origin in a text file.
-No login required!
 
 # Instructions
 1. For any of this to work, you'll need the webpage with all of your games. So log in to your respective account and download the webpage (in firefox and chrome: save page as... Webpage, complete).
