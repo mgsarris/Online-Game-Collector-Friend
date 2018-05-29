@@ -7,9 +7,9 @@ A handy python and C# script that puts all your games from GOG, Steam, and Origi
 - For Steam (save as steam.html): http://steamcommunity.com/id/[---insert your steam ID here---]/games/?tab=all
 - For Origin (save as origin.html): https://www.origin.com/usa/en-us/game-library
 
-2. If your're using the C# application, all you need to do is throw all of the html files and the exe in the same folder and you should be good to go (even if your missing a site or two)
+2. If you're using the C# application, all you need to do is throw all of the html files and the exe in the same folder and you should be good to go (even if your missing a site or two)
 
-3. Same if your're using python, just make sure you have the re (regular expression) library (pip install re). 
+3. Same if you're using python, just make sure you have the re (regular expression) library (pip install re). 
 
 If something isn't working, double check that you:
 - Saved the complete html
